@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan&#39;s Portfolio on Home</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Ryan&#39;s Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms</title>
+      <link>https://example.com/projects/algorithms/</link>
+      <pubDate>Tue, 21 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/projects/algorithms/</guid>
+      <description>Algorithms Minimum Spanning Tree
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>https://example.com/projects/project-1/</link>
+      <pubDate>Tue, 21 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/projects/project-1/</guid>
+      <description>Project 1: Hotel Management  Web UI that allows a user to manage guests, rooms, and packages for the hotel. Database design  Tables include guest, room, package, guest_to_package, check_in_out Utilizes 1:1, 1:M, and M:M relationships    Manage Guests  Manage Rooms  Manage Packages  Guest Check In Page  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>text</description>
+    </item>
+    
+  </channel>
+</rss>
